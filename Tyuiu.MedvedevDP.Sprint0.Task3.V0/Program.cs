@@ -12,7 +12,7 @@ namespace Tyuiu.MedvedevDP.Sprint0.Task3.V0
         static void Main(string[] args)
         {
             Console.WriteLine(DataService.Sum(7, 7));
-            Console.ReadKey();
+            Console.ReadKey(); 
         }
     }
 }
